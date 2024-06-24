@@ -20,4 +20,4 @@ Customize: Modify visuals, filters, or data sources as needed to suit specific a
 ### Data Sources:
 The report utilizes synthetic data for demonstration purposes. Replace with your actual credit card transaction data for real-world analysis.
 
-*Dashboard Link*: https://app.powerbi.com/groups/me/reports/85e1d0c8-9bdd-4936-8ab8-ea070e4f3c54/ReportSectionf17cfb2aea667be40c01?experience=power-bi
+*Dashboard Link*: https://app.powerbi.com/view?r=eyJrIjoiMjI3ZmY5M2MtMWFkZC00ZmI0LTg2NmMtMTZkYWMxMmE5MTI4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
